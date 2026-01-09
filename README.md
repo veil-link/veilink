@@ -8,7 +8,7 @@ A Software-Defined Network Hidden Beneath the Veil.
 
 ## Specifications
 
-- [Specifications](./doc/doc-spec/index.md)
+- [Specifications](./doc/doc-spec/)
 
 ## License
 
