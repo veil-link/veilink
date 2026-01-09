@@ -14,7 +14,7 @@
     | 00.001 | Architecture | [00.001 Architecture](./00-series-general/00.001-architecture.md) | The architecture of Veil-link |
     | 00.002 | Procedures | [00.002 Procedures](./00-series-general/00.002-procedure.md) | Procedures in Veil-link |
 
-2. **01-series**
+2. **01-series (NF)**
 
     | ID | Title | Link | Summary |
     | - | - | - | - |
@@ -25,26 +25,26 @@
     | 01.004 | DRF | [01.004 DRF](./01-series-nf/01.004-drf.md) | Data Repository Function |
     | 01.005 | OAM | [01.005 OAM](./01-series-nf/01.005-oam.md) | Operation, Administration, and Maintenance |
 
-3. **02-series**
+3. **02-series (Router)**
 
     | ID | Title | Link | Summary |
     | - | - | - | - |
     | 02.000 | SA-Router | [02.000 SA-Router](./02-series-router/02.000-sa-router.md) | Session Anchor Router |
     | 02.001 | I-Router | [02.001 I-Router](./02-series-router/02.001-i-router.md) | Intermediate Router |
 
-4. **03-series**
+4. **03-series (Identity)**
 
     | ID | Title | Link | Summary |
     | - | - | - | - |
     | 03.000 | Identity | [03.000 Identity](./03-series-identity/03.000-identity.md) | Identity |
 
-5. **04-series**
+5. **04-series (Service)**
 
     | ID | Title | Link | Summary |
     | - | - | - | - |
     | 04.000 | Service | [04.000 Service](./04-series-service/04.000-service.md) | Service |
 
-6. **05-series**
+6. **05-series (Protocol)**
 
     | ID | Title | Link | Summary |
     | - | - | - | - |
