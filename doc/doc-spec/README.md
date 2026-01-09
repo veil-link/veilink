@@ -32,15 +32,25 @@
     | 02.000 | SA-Router | [02.000 SA-Router](./02-series-router/02.000-sa-router.md) | Session Anchor Router |
     | 02.001 | I-Router | [02.001 I-Router](./02-series-router/02.001-i-router.md) | Intermediate Router |
 
-4. **04-series**
+4. **03-series**
 
     | ID | Title | Link | Summary |
     | - | - | - | - |
+    | 03.000 | Identity | [03.000 Identity](./03-series-identity/03.000-identity.md) | Identity |
 
-5. **05-series**
+5. **04-series**
 
     | ID | Title | Link | Summary |
     | - | - | - | - |
+    | 04.000 | Service | [04.000 Service](./04-series-service/04.000-service.md) | Service |
+
+6. **05-series**
+
+    | ID | Title | Link | Summary |
+    | - | - | - | - |
+    | 05.000 | IAP | [05.000 IAP](./05-series-protocol/05.000-iap.md) | Identity Access Protocol |
+    | 05.001 | RAP | [05.001 RAP](./05-series-protocol/05.001-rap.md) | Router Access Protocol |
+    | 05.002 | SMP | [05.002 SMP](./05-series-protocol/05.002-smp.md) | Session Management Protocol |
 
 ## Author & Copyright
 
