@@ -1,10 +1,14 @@
-# veilink
+# Veil-link
 
 ![veilink](./veilink.png)
 
 ## Introduction
 
 A Software-Defined Network Hidden Beneath the Veil.
+
+## Specifications
+
+- [Specifications](./doc/doc-spec/index.md)
 
 ## License
 
